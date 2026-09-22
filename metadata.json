@@ -1,0 +1,6 @@
+{
+  "name": "Müteahhit360 - Müteahhitlik & Teklif Yönetim Sistemi",
+  "description": "Çoklu firma destekli, interaktif CAD arsa çizim modülü, akıllı teklif motoru, malik payı/borçlandırma ve şantiye takibi yönetim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
